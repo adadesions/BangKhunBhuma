@@ -1,5 +1,5 @@
 # BangHungBhuma
-## creared by AdaBrain Math-Com Studio
+## Created by AdaBrain Math-Com Studio
 
 * Tutorial
 * Git learning
